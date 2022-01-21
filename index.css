@@ -1,0 +1,90 @@
+body{
+	margin:0%;
+	padding:0%;
+	font-family:"Palatino Linotype";
+	font-size:100%;
+	background-image:url("../imagenes/fondo.jpg");
+	background-attachment:fixed;	
+}
+	
+h1,h2,h3,h4,h5,h6{
+	margin-top:0;
+	padding-left:5%;
+	padding-right:5%;
+	text-align:center;
+}
+p{
+	margin-top:0;
+	padding-left:10%; 
+	padding-right:10%;
+	text-align:justify;
+	font-family:"Arial";
+}
+.tabla1{
+	width:65%;
+	background-color: #FFF;
+	margin-top:5%;
+	margin-bottom:5%;
+	margin-left:30%;
+	margin-right:5%;
+}
+.primerparrafo{
+	padding:1% 0;
+}
+.footer{
+	background-color: pink;
+	border:thin solid black ;
+	border-color:white;
+	color:white;
+}
+table{
+	width:100%;
+}
+ul{
+	text-align: justify;
+	padding-left:15%;
+	padding-right:15%;
+}
+.lista1{
+	list-style-image:url("../imagenes/add.png"); 
+}
+
+.lista2{
+	list-style-image:url("../imagenes/next.png"); 
+}
+
+.rojo{
+	color:red;
+	
+}	
+.negrita{
+	font-weight:bold;
+
+}
+.azul{
+	color:blue;
+}
+.fotocafe{
+	width:100%;
+
+}
+
+
+.fotoTazas {
+	width: 50%;
+}
+.celdaMenu {
+	text-align: center;
+	width: 18%;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #FFF;
+}
+.logo {
+	width: 100%;
+}
+.celdaLogo {
+	text-align: center;
+	width: 10%;
+	background-color: #FFF;
+	padding: 0;
+}
